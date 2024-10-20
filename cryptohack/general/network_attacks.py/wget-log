@@ -1,0 +1,5 @@
+--2024-09-28 11:20:22--  https://artifacts.picoctf.net/c_titan/163/challenge.zip
+Resolving artifacts.picoctf.net (artifacts.picoctf.net)... 18.67.175.78, 18.67.175.91, 18.67.175.59, ...
+Connecting to artifacts.picoctf.net (artifacts.picoctf.net)|18.67.175.78|:443... connected.
+OpenSSL: error:0A000126:SSL routines::unexpected eof while reading
+Unable to establish SSL connection.

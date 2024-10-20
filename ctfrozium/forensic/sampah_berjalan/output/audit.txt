@@ -1,0 +1,27 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Thu Aug 29 17:13:38 2024
+Invocation: foremost tempatsampah.png 
+Output directory: /mnt/c/Code/ctfrozium/forensic/sampah_berjalan/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: tempatsampah.png
+Start: Thu Aug 29 17:13:38 2024
+Length: 1 MB (1756449 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	     599 KB 	          0 	  (1080 x 1080)
+1:	00001199.png 	     347 KB 	     614208 	  (860 x 854)
+2:	00001894.png 	      54 KB 	     969869 	  (865 x 866)
+3:	00002004.png 	     214 KB 	    1026118 	  (855 x 859)
+4:	00002434.png 	     498 KB 	    1246214 	  (889 x 895)
+Finish: Thu Aug 29 17:13:38 2024
+
+5 FILES EXTRACTED
+	
+png:= 5
+------------------------------------------------------------------
+
+Foremost finished at Thu Aug 29 17:13:38 2024
